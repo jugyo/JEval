@@ -3,6 +3,7 @@
     "displayName": "jeval",
     "description": "JEval evaluates code in editor",
     "version": "0.0.1",
+    "repository": "https://github.com/jugyo/JEval",
     "publisher": "jugyo",
     "engines": {
         "vscode": "^1.28.0"
